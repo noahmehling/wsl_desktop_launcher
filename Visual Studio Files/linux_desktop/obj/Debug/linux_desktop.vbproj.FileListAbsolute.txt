@@ -1,0 +1,12 @@
+C:\Users\noahm\source\repos\linux_desktop\linux_desktop\bin\Debug\linux_desktop.exe.config
+C:\Users\noahm\source\repos\linux_desktop\linux_desktop\bin\Debug\linux_desktop.exe
+C:\Users\noahm\source\repos\linux_desktop\linux_desktop\bin\Debug\linux_desktop.pdb
+C:\Users\noahm\source\repos\linux_desktop\linux_desktop\bin\Debug\linux_desktop.xml
+C:\Users\noahm\source\repos\linux_desktop\linux_desktop\obj\Debug\linux_desktop.vbprojResolveAssemblyReference.cache
+C:\Users\noahm\source\repos\linux_desktop\linux_desktop\obj\Debug\linux_desktop.Form1.resources
+C:\Users\noahm\source\repos\linux_desktop\linux_desktop\obj\Debug\linux_desktop.Resources.resources
+C:\Users\noahm\source\repos\linux_desktop\linux_desktop\obj\Debug\linux_desktop.vbproj.GenerateResource.Cache
+C:\Users\noahm\source\repos\linux_desktop\linux_desktop\obj\Debug\linux_desktop.vbproj.CoreCompileInputs.cache
+C:\Users\noahm\source\repos\linux_desktop\linux_desktop\obj\Debug\linux_desktop.exe
+C:\Users\noahm\source\repos\linux_desktop\linux_desktop\obj\Debug\linux_desktop.xml
+C:\Users\noahm\source\repos\linux_desktop\linux_desktop\obj\Debug\linux_desktop.pdb

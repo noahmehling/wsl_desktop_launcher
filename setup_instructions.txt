@@ -1,0 +1,16 @@
+DISCLAIMER: storing your actual password in a file is a super stupid idea.
+Please use a simple password and do not use your installation for ANY server application.
+SETUP:
+1. Install Ubuntu application for wsl
+3. sudo apt-get update
+4. sudo apt install xfce4 xorg xrdp
+5. sudo sed -i 's/port=3389/port=3390/g' /etc/xrdp/xrdp.ini
+
+6. copy "linux_desktop.rdp" and "passwd.txt" to "C:\Users\Public"
+7. right click and edit the .rdp file
+8. under username enter your UNIX username
+9. click on "allow saving your credentials"
+10. click on connect and enter your UNIX password
+11. edit the file "passwd.txt" and enter your UNIX password
+11. Install the Aplication "linux_desktop" using "setup" in the setup folder
+12. enjoy XFCE4 on Windows!
